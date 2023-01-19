@@ -6,7 +6,7 @@ public class Hero : MonoBehaviour
 {
     public int health = 100;
     public Color hitColor = Color.white;
-    public float moveSpeed = 5.0f;
+    public float moveSpeed = 10.0f;
     public float rotateSpeed = 100.0f;
     public int magicOrbAmount = 20;
     public GameObject magicOrb = null;
